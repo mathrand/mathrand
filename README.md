@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Math Lee, aka Math.Rand.
+## Hi there 👋  I'm Mat Lee, aka Math.Rand.
 
 🔭 I’m currently focused on the following topics:
 
