@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Mathew Lee, aka Math.Rand().
+## Hi there 👋  I'm Math Lee, aka Math.Rand.
 
 🔭 I’m currently focused on the following topics:
 
@@ -6,6 +6,7 @@
 - efficient data structures
 - secure coding
 - machine learning / deep learning
+- true randomness
 
 👯 I’m looking to collaborate on any of the above.
 
